@@ -1,2 +1,2 @@
 *.cs diff=csharp
-*.cs linguist-detectable=false
+*.cs linguist-detectable=true
